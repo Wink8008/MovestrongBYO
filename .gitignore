@@ -45,3 +45,25 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+#============
+# Unity Files
+#============
+*.csproj
+*.sln
+*.userprefs
+Assets/Materials
+Assets/Materials.meta
+Assets/Prefabs
+Assets/Resources
+Assets/Standard Assets
+Library
+WebGL
+Temp
+obj
+Assets/New Terrain.asset
+Assets/New Terrain.asset.meta
+Assets/Prefabs.meta
+Assets/Scenes.meta
+Assets/Resources.meta
+Assets/Scenes
